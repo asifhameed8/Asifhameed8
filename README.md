@@ -10,7 +10,7 @@ I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI
 - **Backend:** ASP.NET Core, Python (FastAPI, Django), Node.js
 - **Database:** SQL Server, PostgreSQL, MongoDB
 - **DevOps:** Azure, GitHub Actions, Docker, CI/CD pipelines
-- **Others:** REST APIs, NopCommerce, SaaS, AI integration, Stripe/PayPal
+- **Others:** REST APIs, nopCommerce, SaaS, AI integration, Stripe/PayPal
 
 ---
 
@@ -37,7 +37,7 @@ I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI
 
 If you're building something meaningful and need a reliable full-stack partner, let’s connect.
 
-**[→ Contact me on Upwork](https://www.upwork.com/freelancers/~01a234example)**  
+**[→ Contact me on Upwork](https://www.upwork.com/freelancers/asifhameed)**  
 **[→ Visit my portfolio site](https://asifhameed.com)** *(coming soon)*
 
 ---
