@@ -27,10 +27,11 @@ I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI
 ## 📌 Featured Case Studies (from Private Projects)
 > Most of my client work is private due to NDAs, but I’ve created case study summaries:
 
+- [Fintech and Mortgage Portal](https://github.com/asifhameed8/Texell-RateDisplay-Demo)
+- [Enterprise-grade automotive eCommerce solution](https://github.com/asifhameed8/Autoplicity-AuctionEcommerce-CaseStudy)
 - [Client Portal – ASP.NET Core + Angular](https://github.com/asifhameed8/Client-Portal-CaseStudy)
 - [HRMS SaaS – React + .NET 7 + SQL Server](https://github.com/asifhameed8/HRMS-CaseStudy)
 - [Healthcare Workflow App – Python FastAPI + Vue](https://github.com/asifhameed8/Healthcare-CaseStudy)
-- [Fintech and Mortgage Portal](https://github.com/asifhameed8/Texell-RateDisplay-Demo)
 
 ---
 
