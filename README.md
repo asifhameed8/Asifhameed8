@@ -3,6 +3,8 @@
 I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI-driven platforms** using a powerful combination of modern web technologies. With 10+ years of experience and a proven track record on platforms like Upwork, I help startups and growing businesses turn ideas into robust, production-ready software.
 
 ---
+💳 FinTech 💊 HealthTech 🏘️ Real Estate 🧠 AI 📱 MVPs 🌐 Web Apps
+---
 
 ## ⚙️ Tech Stack & Expertise
 
