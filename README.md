@@ -37,6 +37,38 @@ I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI
 
 ---
 
+## 🔹 .NET / ASP.NET Core / Blazor / Angular Projects
+
+- [Texell Rate Display Demo](https://github.com/asifhameed8/Texell-RateDisplay-Demo)  
+  *Dynamic loan/savings rate platform using ASP.NET Core API + Angular*
+
+- [HRMS MVP (Private Repo – Case Study)](https://github.com/asifhameed8/HRMS-MVP-ASP.NET)  
+  *Human resource management system with role-based dashboards*
+
+- [Autoplicity eCommerce Platform](https://github.com/asifhameed8/Autoplicity-AuctionEcommerce-CaseStudy)  
+  *Auction-based eCommerce system with YMM filters and NopCommerce*
+
+---
+
+## 🔸 MERN / React/ VueJS Projects
+
+- [Real Estate Dashboard](https://github.com/asifhameed8/RealEstate-MERN-Stack)  
+  *Property listings with admin control and MongoDB backend*
+
+- [Client Portal (Firebase + MERN)](https://github.com/asifhameed8/ClientPortal-MERN-Firebase)  
+  *User dashboard, auth flow, and project tracker*
+
+---
+
+## 🔶 Bubble.io Projects
+
+- [Custom CRM – Case Study](https://github.com/asifhameed8/BubbleIO-CustomCRM-CaseStudy)  
+  *Visual CRM app using Bubble.io with forms, filters, and workflows*
+
+- [Startup MVP – Form Workflow (Coming Soon)](https://github.com/asifhameed8/Bubble-MVP-Workflow)
+
+
+---
 ## 📈 Let's Collaborate
 
 If you're building something meaningful and need a reliable full-stack partner, let’s connect.
