@@ -62,7 +62,7 @@ I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI
 
 ## 🔶 Bubble.io Projects
 
-- [Custom CRM – Case Study](https://github.com/asifhameed8/BubbleIO-CustomCRM-CaseStudy)  
+- [Custom CRM – Case Study](https://github.com/asifhameed8/BubbleCRM-CaseStudy-CustomWorkflow)  
   *Visual CRM app using Bubble.io with forms, filters, and workflows*
 
 - [Startup MVP – Form Workflow (Coming Soon)](https://github.com/asifhameed8/Bubble-MVP-Workflow)
