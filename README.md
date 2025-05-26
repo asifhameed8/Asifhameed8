@@ -4,6 +4,13 @@ I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI
 
 ---
 
+![.NET](https://img.shields.io/badge/.NET-Expert-blueviolet)
+![Azure](https://img.shields.io/badge/Azure-Specialist-lightblue)
+![Upwork](https://img.shields.io/badge/Upwork-Top--Rated-brightgreen)
+![Support](https://img.shields.io/badge/Support-24%2F7-orange)
+
+---
+
 ## ⚙️ Tech Stack & Expertise
 
 - **Frontend:** Angular, React, TypeScript, Bootstrap, Tailwind
