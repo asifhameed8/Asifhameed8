@@ -2,8 +2,6 @@
 
 I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI-driven platforms** using a powerful combination of modern web technologies. With 10+ years of experience and a proven track record on platforms like Upwork, I help startups and growing businesses turn ideas into robust, production-ready software.
 
----
-
 ![.NET](https://img.shields.io/badge/.NET-Expert-blueviolet)
 ![Azure](https://img.shields.io/badge/Azure-Specialist-lightblue)
 ![Upwork](https://img.shields.io/badge/Upwork-Top--Rated-brightgreen)
@@ -13,7 +11,7 @@ I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI
 
 ## ⚙️ Tech Stack & Expertise
 
-- **Frontend:** Angular, React, TypeScript, Bootstrap, Tailwind
+- **Frontend:** Angular, React, VueJS, TypeScript, Bootstrap, Tailwind
 - **Backend:** ASP.NET Core, Python (FastAPI, Django), Node.js
 - **Database:** SQL Server, PostgreSQL, MongoDB
 - **DevOps:** Azure, GitHub Actions, Docker, CI/CD pipelines
