@@ -2,10 +2,20 @@
 
 I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI-driven platforms** using a powerful combination of modern web technologies. With 10+ years of experience and a proven track record on platforms like Upwork, I help startups and growing businesses turn ideas into robust, production-ready software.
 
-![.NET](https://img.shields.io/badge/.NET-Expert-blueviolet)
-![Azure](https://img.shields.io/badge/Azure-Specialist-lightblue)
-![Upwork](https://img.shields.io/badge/Upwork-Top--Rated-brightgreen)
-![Support](https://img.shields.io/badge/Support-24%2F7-orange)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Angular](https://img.shields.io/badge/Frontend-Angular-red?logo=angular)
+![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)
+![AI](https://img.shields.io/badge/Tech-AI-blueviolet?logo=openai)
+![ASP.NET Core](https://img.shields.io/badge/Backend-ASP.NET_Core-5C2D91?logo=dotnet)
+![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
+![Upwork](https://img.shields.io/badge/Upwork-Top--Rated--Plus-brightgreen)
+![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?logo=microsoftazure)
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws)
+![SQL Server](https://img.shields.io/badge/Database-SQL_Server-CC2927?logo=microsoftsqlserver)
+![Bubble.io](https://img.shields.io/badge/NoCode-Bubble.io-1F1F1F?logo=bubble)
+
+
+
 
 ---
 
