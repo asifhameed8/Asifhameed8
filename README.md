@@ -63,6 +63,10 @@ I specialize in building **scalable MVPs**, **custom enterprise apps**, and **AI
 - [Autoplicity eCommerce Platform](https://github.com/asifhameed8/Autoplicity-AuctionEcommerce-CaseStudy)  
   *Auction-based eCommerce system with YMM filters and NopCommerce*
 
+- [Xamarin.Forms to .NET MAUI](https://github.com/asifhameed8/XF-to-MAUI-Migration-Sample)  
+  *A structured migration approach from Xamarin.Forms to .NET MAUI *
+
+
 ---
 
 ## 🔸 MERN / React/ VueJS Projects
