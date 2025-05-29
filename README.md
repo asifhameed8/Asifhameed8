@@ -1,37 +1,69 @@
-# Hi, I'm Asif Hameed – Full-Stack Engineer, MVP Expert & Top Rated Plus 🚀  
-🔗 Let's build your next scalable MVP or enterprise app – [Contact me on Upwork »](https://www.upwork.com/freelancers/asifhameed)
+# 👋 Hi, I'm Asif Hameed  ![Upwork](https://img.shields.io/badge/Upwork-Top--Rated--Plus-brightgreen)
+### 🚀 Full-Stack Engineer | MVP Expert | ASP.NET Core • AI • Python • MERN
+ 
 
-I build **scalable MVPs**, **enterprise-grade SaaS platforms**, and **AI-powered applications** using a proven combination of modern technologies: `.NET Core`, `C#`, `Python`, `React`, `Angular`, `SQL Server`, and `Bubble.io`.
+<a href="https://www.upwork.com/freelancers/asifhameed" target="_blank"><img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-brightgreen?style=for-the-badge&logo=upwork" alt="Hire Me on Upwork"></a>
 
-With **10+ years of experience**, 300+ projects delivered, and a **Top Rated Plus badge on Upwork**, I help startups and growing businesses go from idea to **production-ready solutions** — fast, secure, and built to scale.
 
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![Angular](https://img.shields.io/badge/Frontend-Angular-red?logo=angular)
-![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)
-![AI](https://img.shields.io/badge/Tech-AI-blueviolet?logo=openai)
-![ASP.NET Core](https://img.shields.io/badge/Backend-ASP.NET_Core-5C2D91?logo=dotnet)
-![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
-![Upwork](https://img.shields.io/badge/Upwork-Top--Rated--Plus-brightgreen)
-![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?logo=microsoftazure)
-![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws)
-![SQL Server](https://img.shields.io/badge/Database-SQL_Server-CC2927?logo=microsoftsqlserver)
-![Bubble.io](https://img.shields.io/badge/NoCode-Bubble.io-1F1F1F?logo=bubble)
+I help startups, scaleups, and founders build **scalable MVPs**, **SaaS platforms**, and **AI-powered applications** using technologies like `.NET Core`, `C#`, `Python`, `React`, `Angular`, `SQL Server`, and `Bubble.io`.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifhameed8&show_icons=true&theme=default)
+With over **10 years of hands-on experience** and a **Top Rated Plus** badge on Upwork, I deliver fast, secure, and production-ready solutions — from idea to deployment.
+
+👉 [See My Upwork Profile](https://www.upwork.com/freelancers/asifhameed)
+
+### 🛠 Tools & Tech I Use
+
+![Frontend](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Frontend](https://img.shields.io/badge/Frontend-Angular-red?logo=angular)
+![Language](https://img.shields.io/badge/Language-Python-yellow?logo=python)
+![Tech](https://img.shields.io/badge/Tech-AI-blueviolet?logo=openai)
+![Backend](https://img.shields.io/badge/Backend-ASP.NET_Core-5C2D91?logo=dotnet)
+![Language](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
+![Cloud](https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?logo=microsoftazure)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws)
+![Database](https://img.shields.io/badge/Database-SQL_Server-CC2927?logo=microsoftsqlserver)
+![NoCode](https://img.shields.io/badge/NoCode-Bubble.io-1F1F1F?logo=bubble)
+
+---
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### ⚙️ Tech Stack & Expertise
+
+| Category       | Tools & Technologies |
+|----------------|----------------------|
+| **Frontend**    | React, Angular, VueJS, TypeScript, Bootstrap, Tailwind |
+| **Backend**     | ASP.NET Core, .NET 7/6/5, Python (FastAPI, Django), Node.js |
+| **Databases**   | SQL Server, PostgreSQL, MongoDB, SQLite |
+| **Cloud**       | Azure, AWS (Lambda, EC2, S3), GCP |
+| **DevOps**      | Docker, GitHub Actions, CI/CD pipelines |
+| **APIs**        | REST, Web APIs, OpenAI, Stripe, PayPal, Firebase, SendGrid |
+| **Platforms**   | SaaS, MVPs, CRM, HRMS, ERP, eCommerce |
+| **No-Code**     | Bubble.io (CRM, MVP workflows) |
+| **AI / Automation** | OpenAI GPT, Chatbots, Predictive Analytics, Celery, Airflow |
+
+</td>
+<td valign="top" width="45%">
+
+### 📊 GitHub Stats
+
+![Asif Hameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifhameed8&show_icons=true&theme=default)
+
+#### Summary:
+- ⭐ **Stars:** 4  
+- 📆 **Commits (2025):** 84  
+- 🔁 **Pull Requests:** 0  
+- ⚠️ **Issues:** 1  
+- 🌍 **Contributions (Last Year):** 0  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Tech Stack & Expertise
-
-- **Frontend:** Angular, React, VueJS, TypeScript, Bootstrap, Tailwind  
-- **Backend:** ASP.NET Core, Python (FastAPI, Django), Node.js  
-- **Database:** SQL Server, PostgreSQL, MongoDB  
-- **DevOps:** Azure, GitHub Actions, Docker, CI/CD pipelines  
-- **Others:** REST APIs, nopCommerce, SaaS, AI integration, Stripe/PayPal
-
----
-
-💳 FinTech 💊 HealthTech 🏘️ Real Estate 🧠 AI 📱 MVPs 🌐 Web Apps  
+🏦 FinTech 💊 HealthTech 🏘️ Real Estate 🧠 AI / GPT 📈 SaaS & Startups 🛒 eCommerce 📂 HRMS / CRM 🌐 Web Dashboards
 
 ---
 
@@ -107,4 +139,3 @@ With **10+ years of experience**, 300+ projects delivered, and a **Top Rated Plu
 ### ⚡ Bonus
 
 > Ask me how I optimized a slow .NET system to load **7x faster** — or how I integrated AI chatbots into a Bubble CRM!
-
