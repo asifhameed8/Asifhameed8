@@ -11,7 +11,7 @@ With over **10 years of hands-on experience** and a **Top Rated Plus** badge on 
 
 👉 [See My Upwork Profile](https://www.upwork.com/freelancers/asifhameed)
 
-### 🛠 Tools & Tech I Use
+### 🧰 Tools & Technologies
 
 ![Frontend](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Frontend](https://img.shields.io/badge/Frontend-Angular-red?logo=angular)
@@ -29,7 +29,7 @@ With over **10 years of hands-on experience** and a **Top Rated Plus** badge on 
 <tr>
 <td valign="top" width="55%">
 
-### ⚙️ Tech Stack & Expertise
+### 🧠 My Core Tech Stack
 
 | Category       | Tools & Technologies |
 |----------------|----------------------|
@@ -118,6 +118,10 @@ With over **10 years of hands-on experience** and a **Top Rated Plus** badge on 
 ---
 
 ## 🔶 Bubble.io Projects
+
+- [SeRentipity ((Built with Bubble.io))](https://github.com/asifhameed8/serentipity-experience-platform)  
+  *A Global Travel & Experience Marketplace *
+  
 
 - [Custom CRM – Case Study](https://github.com/asifhameed8/BubbleCRM-CaseStudy-CustomWorkflow)  
   *Visual CRM app using Bubble.io with forms, filters, and workflows*
