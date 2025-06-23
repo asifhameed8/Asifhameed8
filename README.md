@@ -128,7 +128,31 @@ With over **10 years of hands-on experience** and a **Top Rated Plus** badge on 
 
 - [Startup MVP – Form Workflow (Coming Soon)](https://github.com/asifhameed8/Bubble-MVP-Workflow)
 
----
+
+## 📌 What Clients Say
+
+> “Asif and his team are an excellent team to work with. He shows dedication, professionalism, and clear communication. Tasks were completed as agreed with no delays.”  
+> — **Rojelio Osorio**, 7 PDI TECHNOLOGIES ⭐⭐⭐⭐⭐
+
+> “Asif is a great developer and eager to understand the business context. His communication was consistent and clear. We’re planning to hire him again for future projects.”  
+> — **Drisan James**, IGNITE MEDIA ⭐⭐⭐⭐⭐
+
+> “Asif and his team completed our project according to deadlines and made corrections when needed during implementation. Communication was smooth, and I appreciated their flexibility.”  
+> — **Paul-André Bégin**, RENO ASSISTANCE ⭐⭐⭐⭐⭐
+
+> “Asif is a solid .NET developer. He delivered clean, reliable code with a great attitude and clear communication. I’d definitely work with him again.”  
+> — **Paul Mendoza**, SIG PARSER ⭐⭐⭐⭐⭐
+
+> “Working with Asif on a complex Angular project exceeded expectations. He was technically strong, met deadlines, and ensured steady progress.”  
+> — **Stavros Kouris**, ALGORIA ⭐⭐⭐⭐⭐
+
+> “Asif joined an ongoing project with tight timelines. He learned the codebase fast, delivered tasks on time, and was always responsive and professional.”  
+> — **Eric Hamer**, HAMER SOFTWARE LLC ⭐⭐⭐⭐⭐
+>
+> 
+👉 [🔗 More reviews available on my Upwork profile](https://www.upwork.com/freelancers/asifhameed)
+
+
 
 ## 📈 Let's Collaborate
 
