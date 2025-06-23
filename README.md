@@ -129,7 +129,7 @@ With over **10 years of hands-on experience** and a **Top Rated Plus** badge on 
 - [Startup MVP – Form Workflow (Coming Soon)](https://github.com/asifhameed8/Bubble-MVP-Workflow)
 
 
-## 📌 What Clients Say
+## 🧱 Wall of Trust
 
 > “Asif and his team are an excellent team to work with. He shows dedication, professionalism, and clear communication. Tasks were completed as agreed with no delays.”  
 > — **Rojelio Osorio**, 7 PDI TECHNOLOGIES ⭐⭐⭐⭐⭐
@@ -151,8 +151,6 @@ With over **10 years of hands-on experience** and a **Top Rated Plus** badge on 
 >
 > 
 👉 [🔗 More reviews available on my Upwork profile](https://www.upwork.com/freelancers/asifhameed)
-
-
 
 ## 📈 Let's Collaborate
 
