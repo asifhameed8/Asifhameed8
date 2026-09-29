@@ -14,7 +14,7 @@
 
 I started as a .NET engineer 18 years ago and never stopped writing code. Today I lead a senior engineering team that works as an extension of founders' and CTOs' own teams: C#, ASP.NET Core, Azure, Python, AI agents, Angular and the MERN stack.
 
-On Upwork I'm **Top Rated Plus (top 3%)**: **318 jobs**, **26,800+ hours**, **$800K+ earned** and a **100% Job Success Score**.
+On Upwork I'm **Top Rated Plus (top 3%)**: **318 jobs**, **26,800+ hours** and a **100% Job Success Score**.
 
 **What I usually get hired for**
 
