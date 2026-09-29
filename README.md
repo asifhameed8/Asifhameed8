@@ -1,167 +1,165 @@
-# 👋 Hi, I'm Asif Hameed  ![Upwork](https://img.shields.io/badge/Upwork-Top--Rated--Plus-brightgreen)
-### 🚀 Full-Stack Engineer | MVP Expert | ASP.NET Core • AI • Python • MERN
- 
+<a href="https://asifhameedonline.com">
+  <img src="assets/banner.png" alt="Asif Hameed: Full-Stack .NET & AI Engineer" width="100%">
+</a>
 
-<a href="https://www.upwork.com/freelancers/asifhameed" target="_blank"><img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-brightgreen?style=for-the-badge&logo=upwork" alt="Hire Me on Upwork"></a>
+<p align="center">
+  <a href="https://calendly.com/asifhameed/meeting"><img src="https://img.shields.io/badge/Book_a_call-DD3A2A?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a call"></a>
+  <a href="https://www.linkedin.com/in/asifhameedpk"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.upwork.com/freelancers/~012c0e6dc418a59a9d"><img src="https://img.shields.io/badge/Upwork_Top_Rated_Plus-050505?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Top Rated Plus"></a>
+  <a href="https://asifhameedonline.com"><img src="https://img.shields.io/badge/asifhameedonline.com-050505?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:asif_hameed_37@hotmail.com"><img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+</p>
 
+### I build production .NET, Azure and AI systems, and put senior engineers inside US product teams.
 
-I help startups, scaleups, and founders build **scalable MVPs**, **SaaS platforms**, and **AI-powered applications** using technologies like `.NET Core`, `C#`, `Python`, `React`, `Angular`, `SQL Server`, and `Bubble.io`.
+I started as a .NET engineer 18 years ago and never stopped writing code. Today I lead a senior engineering team that works as an extension of founders' and CTOs' own teams: C#, ASP.NET Core, Azure, Python, AI agents, Angular and the MERN stack.
 
-With over **10 years of hands-on experience** and a **Top Rated Plus** badge on Upwork, I deliver fast, secure, and production-ready solutions — from idea to deployment.
+On Upwork I'm **Top Rated Plus (top 3%)**: **318 jobs**, **26,800+ hours**, **$800K+ earned** and a **100% Job Success Score**.
 
-👉 [See My Upwork Profile](https://www.upwork.com/freelancers/asifhameed)
+**What I usually get hired for**
 
-### 🧰 Tools & Technologies
-
-![Frontend](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![Frontend](https://img.shields.io/badge/Frontend-Angular-red?logo=angular)
-![Language](https://img.shields.io/badge/Language-Python-yellow?logo=python)
-![Tech](https://img.shields.io/badge/Tech-AI-blueviolet?logo=openai)
-![Backend](https://img.shields.io/badge/Backend-ASP.NET_Core-5C2D91?logo=dotnet)
-![Language](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp)
-![Cloud](https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?logo=microsoftazure)
-![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws)
-![Database](https://img.shields.io/badge/Database-SQL_Server-CC2927?logo=microsoftsqlserver)
-![NoCode](https://img.shields.io/badge/NoCode-Bubble.io-1F1F1F?logo=bubble)
+- **Senior engineers for your team.** .NET, Python, AI and full-stack developers who join your standups, work your sprint and ship in your repo. First profiles in 48 hours.
+- **AI inside your .NET product, not bolted on.** Semantic Kernel, Azure OpenAI, RAG with Azure AI Search or pgvector, Azure Document Intelligence, ML.NET. Ticket routing, document extraction, dashboards that summarize instead of just display, voice and chat agents.
+- **MVPs and SaaS.** From scope to a product users can log into. ASP.NET Core or Node APIs, Angular or React front ends, SQL Server / PostgreSQL / MongoDB, deployed on Azure or AWS.
+- **.NET modernization.** .NET Framework to .NET 8/10, made AI-capable in the same pass, Web Forms / MVC to ASP.NET Core + Angular, Xamarin to .NET MAUI, slow SQL made fast.
 
 ---
+
+## Tech stack
+
 <table>
-<tr>
-<td valign="top" width="55%">
-
-### 🧠 My Core Tech Stack
-
-| Category       | Tools & Technologies |
-|----------------|----------------------|
-| **Frontend**    | React, Angular, VueJS, TypeScript, Bootstrap, Tailwind |
-| **Backend**     | ASP.NET Core, .NET 7/6/5, Python (FastAPI, Django), Node.js |
-| **Databases**   | SQL Server, PostgreSQL, MongoDB, SQLite |
-| **Cloud**       | Azure, AWS (Lambda, EC2, S3), GCP |
-| **DevOps**      | Docker, GitHub Actions, CI/CD pipelines |
-| **APIs**        | REST, Web APIs, OpenAI, Stripe, PayPal, Firebase, SendGrid |
-| **Platforms**   | SaaS, MVPs, CRM, HRMS, ERP, eCommerce |
-| **No-Code**     | Bubble.io (CRM, MVP workflows) |
-| **AI / Automation** | OpenAI GPT, Chatbots, Predictive Analytics, Celery, Airflow |
-
-</td>
-<td valign="top" width="45%">
-
-### 📊 GitHub Stats
-
-![Asif Hameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifhameed8&show_icons=true&theme=default)
-
-#### Summary:
-- ⭐ **Stars:** 4  
-- 📆 **Commits (2025):** 84  
-- 🔁 **Pull Requests:** 0  
-- ⚠️ **Issues:** 1  
-- 🌍 **Contributions (Last Year):** 0  
-
-</td>
-</tr>
+  <tr>
+    <td><b>.NET / C#</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-050505?style=flat-square&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/.NET_8-050505?style=flat-square&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/ASP.NET_Core-050505?style=flat-square&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/Web_API-050505?style=flat-square&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/Entity_Framework-050505?style=flat-square&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/Blazor-050505?style=flat-square&logo=blazor&logoColor=white">
+      <img src="https://img.shields.io/badge/SignalR-050505?style=flat-square&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/.NET_MAUI-050505?style=flat-square&logo=dotnet&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure-050505?style=flat-square&logo=microsoftazure&logoColor=white">
+      <img src="https://img.shields.io/badge/Azure_Functions-050505?style=flat-square&logo=azurefunctions&logoColor=white">
+      <img src="https://img.shields.io/badge/Azure_DevOps-050505?style=flat-square&logo=azuredevops&logoColor=white">
+      <img src="https://img.shields.io/badge/Key_Vault-050505?style=flat-square&logo=microsoftazure&logoColor=white">
+      <img src="https://img.shields.io/badge/Azure_AD-050505?style=flat-square&logo=microsoftazure&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS-050505?style=flat-square&logo=amazonwebservices&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-050505?style=flat-square&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub_Actions-050505?style=flat-square&logo=githubactions&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / Python</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-050505?style=flat-square&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/Django-050505?style=flat-square&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenAI-050505?style=flat-square&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/Azure_OpenAI-050505?style=flat-square&logo=microsoftazure&logoColor=white">
+      <img src="https://img.shields.io/badge/Semantic_Kernel-050505?style=flat-square&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/ML.NET-050505?style=flat-square&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/RAG_%2F_Azure_AI_Search-050505?style=flat-square&logo=microsoftazure&logoColor=white">
+      <img src="https://img.shields.io/badge/LangChain-050505?style=flat-square&logo=langchain&logoColor=white">
+      <img src="https://img.shields.io/badge/AI_Agents-DD3A2A?style=flat-square&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Front end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular-050505?style=flat-square&logo=angular&logoColor=white">
+      <img src="https://img.shields.io/badge/React-050505?style=flat-square&logo=react&logoColor=white">
+      <img src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/RxJS-050505?style=flat-square&logo=reactivex&logoColor=white">
+      <img src="https://img.shields.io/badge/Blazor-050505?style=flat-square&logo=blazor&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind-050505?style=flat-square&logo=tailwindcss&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>MERN</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-050505?style=flat-square&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/Express-050505?style=flat-square&logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/React-050505?style=flat-square&logo=react&logoColor=white">
+      <img src="https://img.shields.io/badge/Node.js-050505?style=flat-square&logo=nodedotjs&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL_Server-050505?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-050505?style=flat-square&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/Redis-050505?style=flat-square&logo=redis&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-050505?style=flat-square&logo=mongodb&logoColor=white">
+    </td>
+  </tr>
 </table>
 
 ---
 
-🏦 FinTech 💊 HealthTech 🏘️ Real Estate 🧠 AI / GPT 📈 SaaS & Startups 🛒 eCommerce 📂 HRMS / CRM 🌐 Web Dashboards
+## Recent AI work, measured
+
+Most client code sits in private repos under NDA. These are the results I can share.
+
+| Project | Stack | What changed for the client |
+|---|---|---|
+| **CasePath**, AI case management SaaS for child-welfare agencies | LLM · document AI | **90%** less documentation time, **83%** faster decisions, **+20%** caseload per worker |
+| **AI Recruitment Engine**: LLM resume scoring, sourcing, outreach | AI agents · automation | Shortlist in **6 hours instead of 5 days**, **800+** candidates screened a week, **0** new recruiters hired |
+| **Bagallery AI chat** (eCommerce) | AI chat · eCommerce | **+50%** conversions, **35%** faster responses, **40%** less support load |
+| **Talk-Lee**, AI voice agent platform | Python · LLM · NLU | LLM voice agents with natural-language understanding (case study on Upwork) |
 
 ---
 
-## 🚀 Services I Offer
+## Public repos worth a look
 
-- ✅ Full MVP Development – from wireframe to deployment  
-- ✅ Custom Web Applications (HR, Finance, Healthcare, eCommerce)  
-- ✅ Staff Augmentation & Dedicated Developer Roles  
-- ✅ API Integration, Optimization & Performance Tuning  
-- ✅ Code Reviews, Refactoring & Architecture Consulting
-
----
-
-## 🧠 Real-World Projects & Case Studies
-
-> Most client projects are under NDA — here's a sample of documented work:
-
-- [Fintech and Mortgage Portal](https://github.com/asifhameed8/Texell-RateDisplay-Demo)  
-- [Enterprise-grade automotive eCommerce solution](https://github.com/asifhameed8/Autoplicity-AuctionEcommerce-CaseStudy)  
-- [Client Portal – ASP.NET Core + Angular](https://github.com/asifhameed8/Client-Portal-CaseStudy)  
-- [HRMS SaaS – React + .NET 7 + SQL Server](https://github.com/asifhameed8/HRMS-CaseStudy)  
-- [Healthcare Workflow App – Python FastAPI + Vue](https://github.com/asifhameed8/Healthcare-CaseStudy)  
-
-🔍 More private work available on request — just send me a message!
+| Repo | What it shows |
+|---|---|
+| [**XF-to-MAUI-Migration-Sample**](https://github.com/asifhameed8/XF-to-MAUI-Migration-Sample) | Xamarin.Forms to .NET MAUI migration: MVVM, DI, Shell navigation |
+| [**Texell-RateDisplay-Demo**](https://github.com/asifhameed8/Texell-RateDisplay-Demo) | Real-time loan rate board, ASP.NET Core API + Angular |
+| [**Autoplicity-AuctionEcommerce-CaseStudy**](https://github.com/asifhameed8/Autoplicity-AuctionEcommerce-CaseStudy) | Automotive eCommerce on NopCommerce + ASP.NET Core, 500K+ SKUs, YMM search |
+| [**Chat-Service**](https://github.com/asifhameed8/Chat-Service) | Real-time chat with ASP.NET Core, SignalR and Redis |
+| [**InMemoryCacheService**](https://github.com/asifhameed8/InMemoryCacheService) | Thread-safe C# cache with TTL and async support |
+| [**azurestorage-dotnetcore9**](https://github.com/asifhameed8/azurestorage-dotnetcore9) | File upload/download with Azure Blob Storage on .NET 9 |
 
 ---
 
-## 🔹 .NET / ASP.NET Core / Blazor / Angular Projects
+## What clients say (Upwork)
 
-- [Texell Rate Display Demo](https://github.com/asifhameed8/Texell-RateDisplay-Demo)  
-  *Dynamic loan/savings rate platform using ASP.NET Core API + Angular*
+> "Asif is a solid .NET developer. He delivered clean, reliable code with a great attitude and clear communication. I'd definitely work with him again."<br>
+> — **Paul Mendoza**, SIG Parser
 
-- [HRMS MVP (Private Repo – Case Study)](https://github.com/asifhameed8/HRMS-MVP-ASP.NET)  
-  *Human resource management system with role-based dashboards*
+> "Asif joined an ongoing project with tight timelines. He learned the codebase fast, delivered tasks on time, and was always responsive and professional."<br>
+> — **Eric Hamer**, Hamer Software LLC
 
-- [Autoplicity eCommerce Platform](https://github.com/asifhameed8/Autoplicity-AuctionEcommerce-CaseStudy)  
-  *Auction-based eCommerce system with YMM filters and NopCommerce*
+> "Working with Asif on a complex Angular project exceeded expectations. He was technically strong, met deadlines, and ensured steady progress."<br>
+> — **Stavros Kouris**, Algoria
 
-- [Xamarin.Forms to .NET MAUI](https://github.com/asifhameed8/XF-to-MAUI-Migration-Sample)  
-  *A structured migration approach from Xamarin.Forms to .NET MAUI*
+> "Asif is a great developer and eager to understand the business context. His communication was consistent and clear. We're planning to hire him again for future projects."<br>
+> — **Drisan James**, Ignite Media
 
----
-
-## 🔸 MERN / React / VueJS Projects
-
-- [Real Estate Dashboard](https://github.com/asifhameed8/RealEstate-MERN-Stack)  
-  *Property listings with admin control and MongoDB backend*
-
-- [Client Portal (Firebase + MERN)](https://github.com/asifhameed8/ClientPortal-MERN-Firebase)  
-  *User dashboard, auth flow, and project tracker*
+[Read all 300+ job reviews on Upwork →](https://www.upwork.com/freelancers/~012c0e6dc418a59a9d)
 
 ---
 
-## 🔶 Bubble.io Projects
+## How working with my team goes
 
-- [SeRentipity ((Built with Bubble.io))](https://github.com/asifhameed8/serentipity-experience-platform)  
-  *A Global Travel & Experience Marketplace *
-  
+1. **30-minute scope call** with me, not a sales rep.
+2. **2 engineer profiles in 48 hours**, matched to your stack.
+3. **In your standup within 7 days**, with 5-8 hours of overlap with US Eastern time.
+4. **Monthly contract**, IP and NDA signed upfront, free replacement within 5 days if the fit isn't right.
 
-- [Custom CRM – Case Study](https://github.com/asifhameed8/BubbleCRM-CaseStudy-CustomWorkflow)  
-  *Visual CRM app using Bubble.io with forms, filters, and workflows*
+<a href="https://calendly.com/asifhameed/meeting">
+  <img src="assets/cta.png" alt="Book a 30-minute scope call with Asif Hameed" width="100%">
+</a>
 
-- [Startup MVP – Form Workflow (Coming Soon)](https://github.com/asifhameed8/Bubble-MVP-Workflow)
-
-
-## 🧱 Wall of Trust
-
-> “Asif and his team are an excellent team to work with. He shows dedication, professionalism, and clear communication. Tasks were completed as agreed with no delays.”  
-> — **Rojelio Osorio**, 7 PDI TECHNOLOGIES ⭐⭐⭐⭐⭐
-
-> “Asif is a great developer and eager to understand the business context. His communication was consistent and clear. We’re planning to hire him again for future projects.”  
-> — **Drisan James**, IGNITE MEDIA ⭐⭐⭐⭐⭐
-
-> “Asif and his team completed our project according to deadlines and made corrections when needed during implementation. Communication was smooth, and I appreciated their flexibility.”  
-> — **Paul-André Bégin**, RENO ASSISTANCE ⭐⭐⭐⭐⭐
-
-> “Asif is a solid .NET developer. He delivered clean, reliable code with a great attitude and clear communication. I’d definitely work with him again.”  
-> — **Paul Mendoza**, SIG PARSER ⭐⭐⭐⭐⭐
-
-> “Working with Asif on a complex Angular project exceeded expectations. He was technically strong, met deadlines, and ensured steady progress.”  
-> — **Stavros Kouris**, ALGORIA ⭐⭐⭐⭐⭐
-
-> “Asif joined an ongoing project with tight timelines. He learned the codebase fast, delivered tasks on time, and was always responsive and professional.”  
-> — **Eric Hamer**, HAMER SOFTWARE LLC ⭐⭐⭐⭐⭐
->
-> 
-👉 [🔗 More reviews available on my Upwork profile](https://www.upwork.com/freelancers/asifhameed)
-
-## 📈 Let's Collaborate
-
-🚀 If you’re building something ambitious and need an experienced full-stack developer who delivers — let’s talk.
-
-✅ [Top Rated Plus on Upwork](https://www.upwork.com/freelancers/asifhameed)  
-🌍 [Portfolio Website (Coming Soon)](https://asifhameed.com)  
-📩 [Email Me](mailto:your@email.com)
-
----
-
-### ⚡ Bonus
-
-> Ask me how I optimized a slow .NET system to load **7x faster** — or how I integrated AI chatbots into a Bubble CRM!
+<p align="center">
+  <a href="https://asifhameedonline.com">asifhameedonline.com</a> ·
+  <a href="https://www.linkedin.com/in/asifhameedpk">LinkedIn</a> ·
+  <a href="https://www.upwork.com/freelancers/~012c0e6dc418a59a9d">Upwork</a> ·
+  <a href="mailto:asif_hameed_37@hotmail.com">asif_hameed_37@hotmail.com</a>
+</p>
