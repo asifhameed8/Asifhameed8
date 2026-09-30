@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Asif Hameed, Full-Stack .NET & AI Engineer, Upwork Top Rated Plus" width="100%" />
+<img src="assets/banner.png?v=2" alt="Asif Hameed, Full-Stack .NET & AI Engineer, Upwork Top Rated Plus" width="100%" />
 
 ### I write production .NET, Azure and AI code myself, and I've done it for 18 years.
 
@@ -67,6 +67,6 @@ Most client code sits in private repos under NDA. These are the results I can sh
 3. **Code in your repo from week one.** Small, reviewable PRs and 5 to 8 hours of overlap with US Eastern time.
 4. **Clean handover.** Documented code, deployment notes and no lock-in.
 
-<a href="https://www.upwork.com/freelancers/~012c0e6dc418a59a9d"><img src="assets/cta.png" alt="Hire me on Upwork" width="100%" /></a>
+<a href="https://www.upwork.com/freelancers/~012c0e6dc418a59a9d"><img src="assets/cta.png?v=2" alt="Hire me on Upwork" width="100%" /></a>
 
 [Upwork](https://www.upwork.com/freelancers/~012c0e6dc418a59a9d) · [LinkedIn](https://www.linkedin.com/in/asifhameedpk/) · [asifhameedonline.com](https://asifhameedonline.com)
